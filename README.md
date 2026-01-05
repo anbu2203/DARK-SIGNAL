@@ -14,13 +14,13 @@ The NE555P is wired in Astable Mode, creating a continuous pulse that acts as th
 ## thanks
 Huge thanks to the Hack Club community for the guidance and inspiration. This project turned a bunch of random components into a pulsing Bat-signal, and I couldn't be more proud of the final "ship."
 ## bill of materials (BOM)
--1uF capacitor x 1
--0.01uF capacitor x 1
--led x 10
--1k resistor x 1
--470 ohm resistor x 1
--50K resistor x 1
--testpoint connector x 3
--NEE555P IC x 1
--4017 IC x 1
--tOTAL Estimated Build Cost=$15.15 - $20.15
+- 1uF capacitor x 1
+- 0.01uF capacitor x 1
+- led x 10
+- 1k resistor x 1
+- 470 ohm resistor x 1
+- 50K resistor x 1
+- testpoint connector x 3
+- NEE555P IC x 1
+- 4017 IC x 1
+- tOTAL Estimated Build Cost=$15.15 - $20.15
