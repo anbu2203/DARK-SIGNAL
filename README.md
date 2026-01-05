@@ -6,7 +6,7 @@ It showcases the 3mm Red LEDs following the curves of the wings and the NE555P/4
 The Potentiometer (RV1) is prominently placed, allowing the user to manually dial in the speed of the chasing lights.
 ![3D PCB BACK](README%20IMAGES/3D%20PCB%20BACK.png)
 This view highlights the clean copper paths that carry signals between the chips and the LEDs. It shows the tidy Through-Hole pads where the components will be permanently joined to the board, giving it a professional, high-quality finish.
-![PCB EDITOR](README%20IMAGES/PCB%20EDITOR(1).png)
+![PCB EDITOR](README%20IMAGES/PCB%20EDITOR.png)
 The board outline is a custom DXF import on the Edge.Cuts layer, creating the bat-wing shape. This view shows the "rat's nest" turned into organized traces on both the Top (Red) and Bottom (Blue) copper layers to avoid collisions.The LEDs are balanced across both wings to ensure the light sequence looks uniform when the board is powered on.
 ## schematic 
 ![SCHEMATIC](README%20IMAGES/SCHEMATIC.png)
@@ -14,13 +14,13 @@ The NE555P is wired in Astable Mode, creating a continuous pulse that acts as th
 ## thanks
 Huge thanks to the Hack Club community for the guidance and inspiration. This project turned a bunch of random components into a pulsing Bat-signal, and I couldn't be more proud of the final "ship."
 ## bill of materials (BOM)
-~1uF capacitor x 1
-~0.01uF capacitor x 1
-~led x 10
-~1k resistor x 1
-~470 ohm resistor x 1
-~50K resistor x 1
-~testpoint connector x 3
-~NEE555P IC x 1
-~4017 IC x 1
-TOTAL Estimated Build Cost=$15.15 - $20.15
+-1uF capacitor x 1
+-0.01uF capacitor x 1
+-led x 10
+-1k resistor x 1
+-470 ohm resistor x 1
+-50K resistor x 1
+-testpoint connector x 3
+-NEE555P IC x 1
+-4017 IC x 1
+-tOTAL Estimated Build Cost=$15.15 - $20.15
